@@ -5,3 +5,11 @@ C files are for simulating Lid-Driven Cavity exercise and MATLAB files are for a
 
 # 2D Result (U_lid = 1)
 ![Image](https://github.com/user-attachments/assets/8c28cb74-1b2e-4ca8-aa94-b83013d98c79)
+
+
+
+https://github.com/user-attachments/assets/0834f4df-16cd-4b4b-a1b6-55224ca4ffee
+
+
+https://github.com/user-attachments/assets/de7fe1fe-0fbb-4aae-9de6-052f4267b494
+
