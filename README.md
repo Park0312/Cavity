@@ -7,9 +7,4 @@ C files are for simulating Lid-Driven Cavity exercise and MATLAB files are for a
 ![Image](https://github.com/user-attachments/assets/8c28cb74-1b2e-4ca8-aa94-b83013d98c79)
 
 
-
-https://github.com/user-attachments/assets/0834f4df-16cd-4b4b-a1b6-55224ca4ffee
-
-
-https://github.com/user-attachments/assets/de7fe1fe-0fbb-4aae-9de6-052f4267b494
-
+![CavityFlowAnimation](https://github.com/user-attachments/assets/00e02480-e186-4d14-b7dd-b33d6223d9c2)
