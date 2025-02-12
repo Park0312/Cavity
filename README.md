@@ -4,7 +4,7 @@ This is for Lid-Driven exercise in 2D &amp; 3D condition
 C files are for simulating Lid-Driven Cavity exercise and MATLAB files are for analyzing results from simulation.
 
 # 2D Result at Re=1000 (U_lid = 1)
-
+![CavityFlowAnimation_1-2](https://github.com/user-attachments/assets/fc04a93e-efa4-4a21-a15c-199f1e639c8e)
 ![U_VelocityAnimation-3](https://github.com/user-attachments/assets/17222878-a4b6-4d2a-8332-3b8a63630d3a)
 ![V_VelocityAnimation_1](https://github.com/user-attachments/assets/051b67ec-5020-4236-9766-557b6ce3818e)
 
