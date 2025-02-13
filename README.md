@@ -3,7 +3,7 @@ This is for Lid-Driven exercise in 2D &amp; 3D condition
 
 C files are for simulating Lid-Driven Cavity exercise and MATLAB files are for analyzing results from simulation.
 
-Large volume of animations are attached as mp4 file.
+Large volume of animations are attached by mp4 file.
 
 # 2D Result at Re=1000 (U_lid = 1)
 
@@ -33,4 +33,13 @@ https://github.com/user-attachments/assets/ad3701b9-407c-42b2-b3f6-5f94606e5b73
 
 ![U_Velocity_Animation_sin](https://github.com/user-attachments/assets/f3deec44-2345-4685-a202-fa74a81a6804)
 ![V_Velocity_Animation_sin](https://github.com/user-attachments/assets/5d7f0386-f1a1-4896-9f66-a925d78ad8cb)
+
+# 2D Result at Re=100 (U_lid_clockwise = 1)
+
+
+https://github.com/user-attachments/assets/3ba24dd3-77cd-42c1-9463-63437134c041
+
+
+![U_Velocity_square](https://github.com/user-attachments/assets/d503a1dc-88c8-46ff-b7f2-754bd85fc287)
+![V_Velocity_square](https://github.com/user-attachments/assets/33c35093-590b-426a-9f32-fc8bf5a96140)
 
