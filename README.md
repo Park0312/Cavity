@@ -20,3 +20,7 @@ C files are for simulating Lid-Driven Cavity exercise and MATLAB files are for a
 ![Speed_24 900s](https://github.com/user-attachments/assets/77ede2ca-72fb-4a7c-95d4-3b2f9d9c5199)
 
 # 2D Result at Re=100 (U_lid = sin(t))
+
+![U_Velocity_Animation_sin](https://github.com/user-attachments/assets/f3deec44-2345-4685-a202-fa74a81a6804)
+![V_Velocity_Animation_sin](https://github.com/user-attachments/assets/5d7f0386-f1a1-4896-9f66-a925d78ad8cb)
+
