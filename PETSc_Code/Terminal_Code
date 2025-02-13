@@ -1,0 +1,8 @@
+(컴파일 하기)
+mpicc -I$PETSC_DIR/include -I$PETSC_DIR/$PETSC_ARCH/include -o PETSc_3D_Cavity PETSc_3D_Cavity.c -L$PETSC_DIR/$PETSC_ARCH/lib -lpetsc
+or (파일명에 맞는 명령어 입력하기)
+mpicc -I$PETSC_DIR/include -I$PETSC_DIR/$PETSC_ARCH/include -o 2D_Cavity 2D_Cavity.c -L$PETSC_DIR/$PETSC_ARCH/lib -lpetsc
+
+
+(코드 실행시키기)
+mpirun -n 4 ./PETSc_3D_Cavity -pc_type jacobi
