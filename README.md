@@ -5,6 +5,12 @@ C files are for simulating Lid-Driven Cavity exercise and MATLAB files are for a
 
 Large volume of animations are attached by mp4 file.
 
+*Four experiments* are conducted under this C code by adjusting boundary conditions.
+1. Lid-Driven Cavity flow at *U_lid=1 & Re=1000*
+2. Lid-Driven Cavity flow at *U_lid=1 & Re=100*
+3. Lid-Driven Cavity flow at *U_lid=sin(t) & Re=100*
+4. Four-Direction Lid-Driven Cavity flow at *U_lid=1 & Re=100*
+
 # 2D Result at Re=1000 (U_lid = 1)
 
 
